@@ -306,11 +306,9 @@ li {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-
     @media (max-width:950px) {
         height: unset;
     }
-
     .container {
         display: flex;
         margin: auto;
@@ -365,7 +363,7 @@ li {
         width: 90%;
     }
 
-    .ad-title {
+    .the_title {
         margin: 0 0 20px 0;
         font-size: 56px;
         line-height: 72px;
@@ -377,7 +375,7 @@ li {
         }
     }
 
-    .ad-text {
+    .the_text {
         margin: 0 0 35px 0;
         text-align: justify;
         font-size: 24px;

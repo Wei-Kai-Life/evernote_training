@@ -445,7 +445,7 @@ li {
   }
 }
 
-.banner-content .ad-title {
+.banner-content .the_title {
   margin: 0 0 20px 0;
   font-size: 56px;
   line-height: 72px;
@@ -453,13 +453,13 @@ li {
 }
 
 @media (max-width: 950px) {
-  .banner-content .ad-title {
+  .banner-content .the_title {
     font-size: 37px;
     line-height: 45px;
   }
 }
 
-.banner-content .ad-text {
+.banner-content .the_text {
   margin: 0 0 35px 0;
   text-align: justify;
   font-size: 24px;
@@ -469,7 +469,7 @@ li {
 }
 
 @media (max-width: 950px) {
-  .banner-content .ad-text {
+  .banner-content .the_text {
     font-size: 20px;
     line-height: 32px;
   }
