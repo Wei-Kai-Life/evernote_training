@@ -937,8 +937,10 @@ li {
         width: 80%;
         height: 40vh;
 
+
         @media (max-width:600px) {
             display: block;
+            margin: auto;
         }
     }
 

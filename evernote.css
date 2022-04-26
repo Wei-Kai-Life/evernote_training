@@ -1201,6 +1201,7 @@ li {
 @media (max-width: 600px) {
   .carousel-row .swiper-container {
     display: block;
+    margin: auto;
   }
 }
 
